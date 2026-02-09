@@ -1,0 +1,22 @@
+.gallery div.images
+{
+    width: 700px;
+}
+
+.gallery div.images div
+{
+    background: url("1.jpg") no-repeat;
+}
+
+.gallery div
+{
+    width: 20px;
+    height: 700px;
+    float: left;
+}
+
+.gallery .left,
+.gallery .right
+{
+    cursor: pointer;
+}
